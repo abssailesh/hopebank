@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome to Brillian Bank",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "transactions": "Transactions",
+    "disputes": "Disputes",
+    "admin_panel": "Admin Panel",
+    "vendor_panel": "Vendor Panel"
+  }
+  
